@@ -41,4 +41,4 @@ public class MainActivity extends ListActivity {
             break;
     }
     }
-}
+}//edited from github
